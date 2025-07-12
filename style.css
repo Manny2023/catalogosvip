@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #fffaf0;
+}
+header {
+  background: #ff6600;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+iframe {
+  width: 100%;
+  height: calc(100vh - 70px);
+  border: none;
+}
